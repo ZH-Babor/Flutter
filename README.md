@@ -1,2 +1,2 @@
 # Flutter
-This is project for making a inline cart using flutter 
+This is a project for making a inline cart using flutter 
